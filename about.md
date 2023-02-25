@@ -1,5 +1,5 @@
 layout: page
 title: "About Me"
-permalink: /about
+permalink: https://michael-r-r.github.io/about
 
 Hello World
