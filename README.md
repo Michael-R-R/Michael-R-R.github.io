@@ -1,2 +1,3 @@
-# Michael-R-R.github.io
-Portfolio
+theme: jekyll-theme-minimal
+title: My Homepage
+description: Showcase of all my projects
