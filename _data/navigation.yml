@@ -1,6 +1,6 @@
--name: Home
-  link: /README.md
--name: About
+- name: Home
+  link: /
+- name: About
   link: /about.md
--name: Test
+- name: Test
   link: /TestPage.md
